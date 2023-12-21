@@ -1,5 +1,5 @@
 # Laravel Challenge: Routes Cleanup
-
+#3
 This is a project where `routes/web.php` is a real mess. Individual routes, no grouping, no route names, repeating middlewares, etc.
 
 So your task is to make it shorter and more "pretty", with whatever ways you know.
